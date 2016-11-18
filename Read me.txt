@@ -1,0 +1,1 @@
+Running in the environment of linux or OS.In the commend line, type:g++ -o morris morris.cppThen type:./ morris board1.txt board2.txt 5
